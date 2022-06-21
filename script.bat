@@ -1,1 +1,1 @@
-AGDDoS.exe -u 82.157.238.143:40373
+AGDDoS.exe -u https://www.qscare.cn/

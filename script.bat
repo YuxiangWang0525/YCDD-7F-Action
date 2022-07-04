@@ -1,1 +1,1 @@
-AGDDoS.exe -u https://www.qscare.cn/
+AGDDoS.exe -u https://www.qscare.cn
